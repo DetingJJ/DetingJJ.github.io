@@ -31,15 +31,7 @@
     - [区块链](?file=03-程序语言开发/04-Python/01-区块链 "区块链")
 
 ##### weekly
-- [2018-01-19-weekly](?file=04-weekly/01-2018-01-19-weekly "2018-01-19-weekly")
-- [2018-01-26-weekly](?file=04-weekly/02-2018-01-26-weekly "2018-01-26-weekly")
-- [2018-02-02-weekly](?file=04-weekly/03-2018-02-02-weekly "2018-02-02-weekly")
-- [2018-02-09-weekly](?file=04-weekly/04-2018-02-09-weekly "2018-02-09-weekly")
-- [2018-02-16-weekly](?file=04-weekly/05-2018-02-16-weekly "2018-02-16-weekly")
-- [2018-02-23-weekly](?file=04-weekly/06-2018-02-23-weekly "2018-02-23-weekly")
-- [2018-03-02-weekly](?file=04-weekly/07-2018-03-02-weekly "2018-03-02-weekly")
-- [2018-03-09-weekly](?file=04-weekly/08-2018-03-09-weekly "2018-03-09-weekly")
-- [2018-03-16-weekly](?file=04-weekly/09-2018-03-16-weekly "2018-03-16-weekly")
+- [阅文周刊](?file=04-weekly/01-阅文周刊 "阅文周刊")
 - [2018-03-23-weekly](?file=04-weekly/10-2018-03-23-weekly "2018-03-23-weekly")
 - [2018-03-30-weekly](?file=04-weekly/11-2018-03-30-weekly "2018-03-30-weekly")
 - [2018-04-08-weekly](?file=04-weekly/12-2018-04-08-weekly "2018-04-08-weekly")
