@@ -32,10 +32,6 @@
 
 ##### weekly
 - [阅文周刊](?file=04-weekly/01-阅文周刊 "阅文周刊")
-- [2018-03-23-weekly](?file=04-weekly/10-2018-03-23-weekly "2018-03-23-weekly")
-- [2018-03-30-weekly](?file=04-weekly/11-2018-03-30-weekly "2018-03-30-weekly")
-- [2018-04-08-weekly](?file=04-weekly/12-2018-04-08-weekly "2018-04-08-weekly")
-- [2018-04-13-weekly](?file=04-weekly/13-2018-04-13-weekly "2018-04-13-weekly")
 
 ##### 美食攻略
 - [监利团子攻略](?file=05-美食攻略/01-监利团子攻略 "监利团子攻略")
