@@ -1,1 +1,1 @@
-if(typeof AWPageMounts=='undefined'){AWPageMounts={}};AWPageMounts['home']={"name":"home-首页.md","path":"home-首页.md","content":"# XiuyongJJ<br>\n### 欢迎浏览季修勇的文档记录!\n—— **这里记录着季修勇同志学习资料备份文档！**    \n![欢迎浏览季修勇的文档记录！](assets/20180323-1254133d.png  \"这就是季修勇！\")  \n","timestamp":1524806888950}
+if(typeof AWPageMounts=='undefined'){AWPageMounts={}};AWPageMounts['home']={"name":"home-首页.md","path":"home-首页.md","content":"# XiuyongJJ<br>\n### 欢迎浏览季修勇的文档记录!\n—— **这里记录着季修勇同志学习资料备份文档！**    \n![欢迎浏览季修勇的文档记录！](assets/20180323-1254133d.png  \"这就是季修勇！\")  \n","timestamp":1524809995335}
