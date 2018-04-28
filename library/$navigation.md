@@ -26,6 +26,7 @@
 - **C++**
     - [MarshalAs](?file=03-程序语言开发/01-C++/01-MarshalAs "MarshalAs")
     - [SMTP邮件协议剖析](?file=03-程序语言开发/01-C++/02-SMTP邮件协议剖析 "SMTP邮件协议剖析")
+    - [WaitForSingleObject与EnterCriticalSection性能比较](?file=03-程序语言开发/01-C++/03-WaitForSingleObject与EnterCriticalSection性能比较 "WaitForSingleObject与EnterCriticalSection性能比较")
 - **C#**
     - [C# 实现窗口无边框，可拖动效果](?file=03-程序语言开发/02-C#/01-C# 实现窗口无边框，可拖动效果 "C# 实现窗口无边框，可拖动效果")
     - [ToString方法一些特殊用法](?file=03-程序语言开发/02-C#/02-ToString方法一些特殊用法 "ToString方法一些特殊用法")
