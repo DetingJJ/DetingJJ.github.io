@@ -66,11 +66,11 @@ int _tmain(int argc, _TCHAR* argv[])
 	{
 		cout<< &(*iterator) << " " << *iterator <<endl;
 	}
-	
+
 	iterator = a.begin();
 	for (;iterator!=a.end();++iterator)
 	{
-		if( 2 == *iterator || 3 == *iterator)
+		if(2 == *iterator || 3 == *iterator)
 		{
 			vector<int>::iterator it = a.erase(iterator);
 			iterator = it;
